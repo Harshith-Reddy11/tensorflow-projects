@@ -89,11 +89,5 @@ Matrix Multiplication Result:
 
 ---
 
-## 👤 Author
-
-Harshith Reddy  
-[GitHub Profile](https://github.com/Harshith-Reddy11)
-
----
 
 **Happy TensorFlow Coding! 🚀**
