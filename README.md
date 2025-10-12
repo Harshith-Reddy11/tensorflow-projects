@@ -1,0 +1,86 @@
+# 🧠 TensorFlow Projects
+
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+
+---
+
+## 📚 Overview
+
+Welcome to the **TensorFlow Projects** repository!  
+This repo contains a collection of beginner-friendly and practical projects built with TensorFlow, focusing on core concepts, hands-on learning, and foundational machine learning workflows.
+
+---
+
+## 📂 Repository Structure
+
+```
+tensorflow-projects/
+│
+├── tensorflow_basics/
+│   ├── linear_regression_tf.py   # Linear regression using TensorFlow
+│   ├── tensor_operations.py      # Basic tensor operations (add, matmul)
+│   ├── test.py                   # Testing file
+│   └── README.md                 # Module documentation
+│
+├── README.md                     # Repository documentation (this file)
+```
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Harshith-Reddy11/tensorflow-projects.git
+   cd tensorflow-projects
+   ```
+2. **Navigate to a project folder:**
+   ```sh
+   cd tensorflow_basics
+   ```
+3. **Install dependencies:**
+   ```sh
+   pip install tensorflow
+   ```
+4. **Run the scripts:**
+   ```sh
+   python linear_regression_tf.py
+   python tensor_operations.py
+   ```
+
+---
+
+## ✅ Example Projects
+
+- **Linear Regression:**  
+  Learn how to implement linear regression from scratch using TensorFlow's gradient tape and automatic differentiation.
+
+- **Tensor Operations:**  
+  Explore basic tensor manipulations such as addition and matrix multiplication, essential for deep learning.
+
+---
+
+## 🧠 Key Learnings
+
+- Understand TensorFlow's core APIs and tensor operations.
+- Build and train simple machine learning models.
+- Gain hands-on experience with Python and TensorFlow for ML workflows.
+
+---
+
+## 💡 Pro Tips
+
+- Explore each project’s README for detailed instructions and learning notes.
+- Experiment with hyperparameters and extend the examples for deeper understanding.
+
+---
+
+## 👤 Author
+
+Harshith Reddy  
+[GitHub Profile](https://github.com/Harshith-Reddy11)
+
+---
+
+**Happy TensorFlow Coding! 🚀**
