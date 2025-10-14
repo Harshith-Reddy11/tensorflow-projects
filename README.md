@@ -73,12 +73,7 @@ tensorflow-projects/
 
 - Check each project’s README for detailed instructions and insights.
 - Experiment with hyperparameters and extend the examples to deepen your understanding.
----
-
-## 👤 Author
-
-Harshith Reddy  
-[GitHub Profile](https://github.com/Harshith-Reddy11)
+- Use these projects as templates for your own machine learning experiments.
 
 ---
 
