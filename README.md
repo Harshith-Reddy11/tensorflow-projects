@@ -1,7 +1,8 @@
 # 🧠 TensorFlow Projects
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+
+A curated collection of practical, beginner-friendly TensorFlow projects and examples for learning core machine learning concepts through hands-on code.
 
 ---
 
