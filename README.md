@@ -8,7 +8,6 @@ A concise collection of beginner-friendly, hands-on TensorFlow projects and exam
 
 ## 📌 Quick Links
 
-- Repository: https://github.com/Harshith-Reddy11/tensorflow-projects
 - Python: https://www.python.org/
 - TensorFlow: https://www.tensorflow.org/
 
