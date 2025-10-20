@@ -115,5 +115,5 @@ Planned additions:
 - Unit tests and CI (GitHub Actions)
 
 ---
-
+Explore, experiment, and extend these small projects to build practical TensorFlow skills.
 
